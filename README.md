@@ -34,3 +34,6 @@ Power BI: For creating interactive dashboards and visualizations.
 Excel/CSV: For initial data preparation and structuring.
 Python (optional): For advanced data processing and analysis.
 DAX Functions: Used in Power BI for creating calculated fields and measures.
+
+![Bank Customer Dashboard Image (1)](https://github.com/user-attachments/assets/a8bdfe6f-9c47-4e23-aa8b-fec76f0a21ab)
+
